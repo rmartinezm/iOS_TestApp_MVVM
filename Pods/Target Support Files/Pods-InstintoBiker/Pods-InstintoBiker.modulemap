@@ -1,0 +1,6 @@
+framework module Pods_InstintoBiker {
+  umbrella header "Pods-InstintoBiker-umbrella.h"
+
+  export *
+  module * { export * }
+}
